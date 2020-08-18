@@ -1,0 +1,10 @@
+import turtle
+a=turtle.Turtle()
+screen=turtle.screen()
+screen.title("window")
+screen.bgcolor("yellow")
+a.pensize(10)
+a.color("red")
+a.shape("turtle")
+a.forward(100)
+turtle.done()
